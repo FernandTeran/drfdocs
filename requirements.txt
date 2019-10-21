@@ -1,4 +1,4 @@
-Django==1.11.21
+Django==1.11.23
 djangorestframework==3.7.7
 coverage==4.4.2
 flake8==2.5.1
